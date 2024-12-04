@@ -1,5 +1,14 @@
 # CODTECH-TASK1
 
+CODTECH-TASK1
+
+NAME =S.SANTHOSH
+COMPANY=CODTECH IT SOLUTION
+ID     = CT6WDS2576
+DOMAIN = DATA ANALYTICS
+DURATION =NOVERMBER 30TH TO JANUARY 15TH,2025
+MENTOR
+
 Project Overview: Exploratory Data Analysis (EDA)
 Objective
 The goal of this project is to perform Exploratory Data Analysis (EDA) on a dataset to uncover meaningful insights. The process involves cleaning, analyzing, and visualizing data to understand its structure, trends, and relationships.
